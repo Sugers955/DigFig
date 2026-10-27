@@ -1,0 +1,16 @@
+{
+  "name": "digfig-profile",
+  "private": true,
+  "dependencies": {
+    "dsh-workbuddy-connect": "^0.7.9"
+  },
+  "dsh": {
+    "profile": {
+      "bundles": [
+        "@deepseek-ai/dsh-base",
+        "@deepseek-ai/dsh-web-app",
+        "dsh-workbuddy-connect"
+      ]
+    }
+  }
+}

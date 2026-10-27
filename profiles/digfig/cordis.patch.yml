@@ -1,0 +1,6 @@
+# profile 层 patch：在 bundles 之后应用，整段 config 覆盖（不做深合并）
+- id: agent-default-model
+  name: "@deepseek-ai/dsh-agent-default-model"
+  config:
+    provider: workbuddy-ai
+    model: deepseek-v4.1-flash

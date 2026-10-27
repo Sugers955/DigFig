@@ -1,0 +1,7 @@
+[
+  {"id": "e01", "path": "sample/小票/receipt_01_D0300162.png", "merchant": "全家便利店", "date": "2026-03-29", "amountYuan": "31.43"},
+  {"id": "e02", "path": "sample/小票/receipt_02_D0200111.png", "merchant": "星巴克咖啡", "date": "2026-02-14", "amountYuan": "52.13"},
+  {"id": "e03", "path": "sample/小票/receipt_03_D0100019.png", "merchant": "瑞幸咖啡", "date": "2026-01-31", "amountYuan": "20.97"},
+  {"id": "e04", "path": "sample/小票/receipt_04_D0100046.png", "merchant": "星巴克咖啡", "date": "2026-01-07", "amountYuan": "55.17"},
+  {"id": "e05", "path": "sample/小票/receipt_05_D0200098.png", "merchant": "盒马鲜生", "date": "2026-02-02", "amountYuan": "82.07"}
+]

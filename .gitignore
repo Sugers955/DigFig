@@ -53,3 +53,8 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 coverage/
+
+# 工作台运行数据（本地 SQLite 与生成产物，可重建，不入库）
+data/
+*.db
+*.sqlite

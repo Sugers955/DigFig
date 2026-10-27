@@ -1,0 +1,32 @@
+[
+  {
+    "file": "小票/receipt_01_D0300162.png",
+    "txId": "D0300162",
+    "amountCents": 3143,
+    "merchant": "全家便利店"
+  },
+  {
+    "file": "小票/receipt_02_D0200111.png",
+    "txId": "D0200111",
+    "amountCents": 5213,
+    "merchant": "星巴克咖啡"
+  },
+  {
+    "file": "小票/receipt_03_D0100019.png",
+    "txId": "D0100019",
+    "amountCents": 2097,
+    "merchant": "瑞幸咖啡"
+  },
+  {
+    "file": "小票/receipt_04_D0100046.png",
+    "txId": "D0100046",
+    "amountCents": 5517,
+    "merchant": "星巴克咖啡"
+  },
+  {
+    "file": "小票/receipt_05_D0200098.png",
+    "txId": "D0200098",
+    "amountCents": 8207,
+    "merchant": "盒马鲜生"
+  }
+]

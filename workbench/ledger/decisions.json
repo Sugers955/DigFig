@@ -1,0 +1,11 @@
+[
+  {"counterparty": "美团外卖·张记麻辣香锅", "category": "餐饮", "confidence": 0.99},
+  {"counterparty": "海底捞火锅", "category": "餐饮", "confidence": 0.99},
+  {"counterparty": "星巴克咖啡", "category": "餐饮", "confidence": 0.98},
+  {"counterparty": "京东商城", "category": "购物", "confidence": 0.97},
+  {"counterparty": "拼多多", "category": "购物", "confidence": 0.92},
+  {"counterparty": "极客时间课程", "category": "教育", "confidence": 0.98},
+  {"counterparty": "平安药房", "category": "医疗", "confidence": 0.97},
+  {"counterparty": "花礼网·生日鲜花", "category": "人情", "confidence": 0.96},
+  {"counterparty": "三体书店", "category": "教育", "confidence": 0.62}
+]
